@@ -133,3 +133,4 @@ out
 config*.yml
 config*.yaml
 icons/
+docker-compose.yml
